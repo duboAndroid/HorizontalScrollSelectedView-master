@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalSelectedView">
+        <attr name="integerMode" format="integer"></attr>
+
+        <attr name="selectSize" format="float"></attr>
+        <attr name="selectColor" format="color|reference"></attr>
+
+        <attr name="noSelectSize" format="float"></attr>
+        <attr name="noSelectColor" format="color|reference"></attr>
+    </declare-styleable>
+</resources>
